@@ -1,8 +1,5 @@
 {
   "categories": [{
-    id: 0,
-    name: 'animals'
-  }, {
     id: 1,
     name: 'beard'
   }, {
