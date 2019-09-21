@@ -1,40 +1,40 @@
 {
   "categories": [{
     "id": 1,
-    name: "beard"
+    "name": "beard"
   }, {
     "id": 2,
-    name: "business"
+    "name": "business"
   }, {
     "id": 3,
-    name: "cars"
+    "name": "cars"
   }, {
     "id": 4,
-    name: "city"
+    "name": "city"
   }, {
     "id": 5,
-    name: "flowers"
+    "name": "flowers"
   }, {
     "id": 6,
-    name: "food"
+    "name": "food"
   }, {
     "id": 7,
-    name: "nature"
+    "name": "nature"
   }, {
     "id": 8,
-    name: "people"
+    "name": "people"
   }, {
     "id": 9,
-    name: "sports"
+    "name": "sports"
   }, {
     "id": 10,
-    name: "tech"
+    "name": "tech"
   }, {
     "id": 11,
-    name: "travel"
+    "name": "travel"
   }, {
     "id": 12,
-    name: "water"
+    "name": "water"
   }],
   "profile": {
     "name": "typicode"
